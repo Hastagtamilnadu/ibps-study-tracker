@@ -1,0 +1,18 @@
+# State file — auto-created on first run, not tracked in git
+tracker_state.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Test scripts
+test_srs.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit config
+.streamlit/secrets.toml
